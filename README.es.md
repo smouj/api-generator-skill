@@ -3,19 +3,22 @@
 [![EN](https://img.shields.io/badge/EN-English-blue)](README.md)
 
 ## Qué Resuelve
-Generate REST/GraphQL APIs
 
-## Uso
-/api-generator
+Generate REST and GraphQL APIs from specifications or code analysis.
 
-## Ejemplos
-1. Example usage for coding
+## Cuándo Se Activa
+
+- api, REST, GraphQL
 
 ## Requisitos
-- OpenClaw agent
 
-## Limitaciones
-- Requires specific context
+- Acceso y herramientas apropiadas
+- Contexto relacionado con coding
+
+## Ejemplos
+
+
 
 ## Licencia
+
 MIT
